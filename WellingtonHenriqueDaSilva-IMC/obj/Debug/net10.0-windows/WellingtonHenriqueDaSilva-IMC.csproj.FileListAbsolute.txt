@@ -1,0 +1,16 @@
+C:\Users\welli\OneDrive\Área de Trabalho\C#\WellingtonHenriqueDaSilva-IMC\WellingtonHenriqueDaSilva-IMC\bin\Debug\net10.0-windows\WellingtonHenriqueDaSilva-IMC.exe
+C:\Users\welli\OneDrive\Área de Trabalho\C#\WellingtonHenriqueDaSilva-IMC\WellingtonHenriqueDaSilva-IMC\bin\Debug\net10.0-windows\WellingtonHenriqueDaSilva-IMC.deps.json
+C:\Users\welli\OneDrive\Área de Trabalho\C#\WellingtonHenriqueDaSilva-IMC\WellingtonHenriqueDaSilva-IMC\bin\Debug\net10.0-windows\WellingtonHenriqueDaSilva-IMC.runtimeconfig.json
+C:\Users\welli\OneDrive\Área de Trabalho\C#\WellingtonHenriqueDaSilva-IMC\WellingtonHenriqueDaSilva-IMC\bin\Debug\net10.0-windows\WellingtonHenriqueDaSilva-IMC.dll
+C:\Users\welli\OneDrive\Área de Trabalho\C#\WellingtonHenriqueDaSilva-IMC\WellingtonHenriqueDaSilva-IMC\bin\Debug\net10.0-windows\WellingtonHenriqueDaSilva-IMC.pdb
+C:\Users\welli\OneDrive\Área de Trabalho\C#\WellingtonHenriqueDaSilva-IMC\WellingtonHenriqueDaSilva-IMC\obj\Debug\net10.0-windows\WellingtonHenriqueDaSilva_IMC.Form1.resources
+C:\Users\welli\OneDrive\Área de Trabalho\C#\WellingtonHenriqueDaSilva-IMC\WellingtonHenriqueDaSilva-IMC\obj\Debug\net10.0-windows\WellingtonHenriqueDaSilva-IMC.csproj.GenerateResource.cache
+C:\Users\welli\OneDrive\Área de Trabalho\C#\WellingtonHenriqueDaSilva-IMC\WellingtonHenriqueDaSilva-IMC\obj\Debug\net10.0-windows\WellingtonHenriqueDaSilva-IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\welli\OneDrive\Área de Trabalho\C#\WellingtonHenriqueDaSilva-IMC\WellingtonHenriqueDaSilva-IMC\obj\Debug\net10.0-windows\WellingtonHenriqueDaSilva-IMC.AssemblyInfoInputs.cache
+C:\Users\welli\OneDrive\Área de Trabalho\C#\WellingtonHenriqueDaSilva-IMC\WellingtonHenriqueDaSilva-IMC\obj\Debug\net10.0-windows\WellingtonHenriqueDaSilva-IMC.AssemblyInfo.cs
+C:\Users\welli\OneDrive\Área de Trabalho\C#\WellingtonHenriqueDaSilva-IMC\WellingtonHenriqueDaSilva-IMC\obj\Debug\net10.0-windows\WellingtonHenriqueDaSilva-IMC.csproj.CoreCompileInputs.cache
+C:\Users\welli\OneDrive\Área de Trabalho\C#\WellingtonHenriqueDaSilva-IMC\WellingtonHenriqueDaSilva-IMC\obj\Debug\net10.0-windows\WellingtonHenriqueDaSilva-IMC.dll
+C:\Users\welli\OneDrive\Área de Trabalho\C#\WellingtonHenriqueDaSilva-IMC\WellingtonHenriqueDaSilva-IMC\obj\Debug\net10.0-windows\refint\WellingtonHenriqueDaSilva-IMC.dll
+C:\Users\welli\OneDrive\Área de Trabalho\C#\WellingtonHenriqueDaSilva-IMC\WellingtonHenriqueDaSilva-IMC\obj\Debug\net10.0-windows\WellingtonHenriqueDaSilva-IMC.pdb
+C:\Users\welli\OneDrive\Área de Trabalho\C#\WellingtonHenriqueDaSilva-IMC\WellingtonHenriqueDaSilva-IMC\obj\Debug\net10.0-windows\WellingtonHenriqueDaSilva-IMC.genruntimeconfig.cache
+C:\Users\welli\OneDrive\Área de Trabalho\C#\WellingtonHenriqueDaSilva-IMC\WellingtonHenriqueDaSilva-IMC\obj\Debug\net10.0-windows\ref\WellingtonHenriqueDaSilva-IMC.dll
